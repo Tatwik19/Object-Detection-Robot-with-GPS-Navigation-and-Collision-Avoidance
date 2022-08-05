@@ -14,14 +14,14 @@ The goal of this project is to create an autonomous robot that detects objects o
     
 ## SOFTWARE DESIGN
 
-Main Loop flowchart
+Main Loop flowchart  
 ![NSTL Software design Main Routine drawio](https://user-images.githubusercontent.com/96451759/183043685-bbbe597f-4e4a-4933-a9d1-8974e868d2db.png)
 
-Flowchart for System Initialization
+Flowchart for System Initialization  
 ![NSTL Software design Initialize System drawio](https://user-images.githubusercontent.com/96451759/183044472-cb777bee-e900-4ee6-b257-64f4055b51b8.png)
 
-Subroutine for Object Detection
+Subroutine for Object Detection  
 ![NSTL Software design Object Detection Routine drawio](https://user-images.githubusercontent.com/96451759/183044605-23339116-9e30-4c54-958c-3a9f79ced40f.png)
 
-Subroutine for Collision Avoidance
+Subroutine for Collision Avoidance  
 ![NSTL Software design Collison Avoidance drawio](https://user-images.githubusercontent.com/96451759/183044810-4ab7a294-ab32-4972-8149-7edefbf2c5f0.png)
